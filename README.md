@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/239434765.svg)](https://zenodo.org/badge/latestdoi/239434765)
+
 # echelle_toggler
 compare observed seismic ridges to synthetic frequency spectra computed with MESA/GYRE 
 
